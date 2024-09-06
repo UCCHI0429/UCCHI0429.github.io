@@ -31,9 +31,7 @@ img{
     box-shadow: 3px 3px 1px black;
 }
 html{
-    background-image: url(dirt.png)
     background-color: #382416;
-;
 }
 .link{
     padding-top: 50px;
