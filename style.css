@@ -31,6 +31,7 @@ img{
     box-shadow: 3px 3px 1px black;
 }
 html{
+    background-image: url("dirt.png");
     background-color: rgb(27, 23, 19);
 }
 .link{
