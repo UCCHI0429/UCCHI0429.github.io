@@ -2,7 +2,7 @@ body{
     color: azure;
     font-family: sans-serif;
     line-height: 35px;
-    width: 600px;
+    width: 700px;
     margin: 0 auto;
     padding: 50px 0px 100px 0px;
     text-shadow: 3px 3px 1px black;
@@ -31,7 +31,9 @@ img{
     box-shadow: 3px 3px 1px black;
 }
 html{
-    background-image: url("dirt.png");
+    background-image: url("dirt.png")
+    background-color: #382416;
+;
 }
 .link{
     padding-top: 50px;
