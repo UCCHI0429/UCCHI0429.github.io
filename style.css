@@ -1,3 +1,41 @@
-.bg{
-    background-color: rgb(122, 122, 134);
+body{
+    color: azure;
+    font-family: sans-serif;
+    line-height: 35px;
+    width: 600px;
+    margin: 0 auto;
+    padding: 50px 0px 100px 0px;
+    text-shadow: 3px 3px 1px black;
+    font-size: 100%;
 }
+h1{
+    color: #2ea01f;
+    font-size: 80px;
+    padding-bottom: 50px;
+}
+h2{
+    font-size: 30px;
+    color: rgb(127, 172, 255);
+    padding-top: 50px;
+}
+p{
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+    color: rgb(127, 172, 255);
+}
+img{
+    height: 90%;
+    width: 90%;
+    box-shadow: 3px 3px 1px black;
+}
+html{
+    background-image: url("../img/dirt.png");
+}
+.link{
+    padding-top: 50px;
+}
+a:link{color: rgb(209, 255, 5);}
+a:visited{color: rgb(209, 255, 5);}
+a:hover{color: rgb(209, 255, 5);}
